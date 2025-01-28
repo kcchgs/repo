@@ -138,9 +138,9 @@ Contactez-Nous
 
 Si vous avez des questions concernant la confidentialité lors de l’utilisation de l’Application, ou si vous avez des questions sur les pratiques, veuillez contacter le Fournisseur de services par e-mail à kcchgs@gmail.com.
 
----
 
-#3. Deutsch (German)
+
+# 3. Deutsch (German)
 
 Datenschutzerklärung
 
@@ -207,9 +207,9 @@ Kontakt
 
 Wenn Sie Fragen zum Thema Datenschutz bei der Nutzung der Anwendung haben oder Fragen zu unseren Praktiken haben, kontaktieren Sie bitte den Dienstanbieter per E-Mail unter kcchgs@gmail.com.
 
----
 
-#4. Italiano (Italian)
+
+# 4. Italiano (Italian)
 
 Informativa sulla Privacy
 
@@ -279,9 +279,9 @@ Contattaci
 Se hai domande riguardanti la privacy durante l’utilizzo dell’Applicazione o hai domande sulle pratiche, contatta il Fornitore del Servizio via e-mail a kcchgs@gmail.com.
 
 
----
 
-#5. Español (Spanish)
+
+# 5. Español (Spanish)
 
 Política de Privacidad
 
@@ -351,9 +351,9 @@ Contáctenos
 Si tienes preguntas sobre la privacidad mientras usas la Aplicación, o sobre nuestras prácticas, contacta al Proveedor del Servicio por correo electrónico en kcchgs@gmail.com.
 
 
----
 
-#6. 日本語 (Japanese)
+
+# 6. 日本語 (Japanese)
 
 プライバシーポリシー
 
@@ -423,9 +423,9 @@ Si tienes preguntas sobre la privacidad mientras usas la Aplicación, o sobre nu
 本アプリケーションの利用におけるプライバシーや運用に関するご質問は、kcchgs@gmail.com（サービス提供者）までお問い合わせください。
 
 
----
 
-#7. 简体中文 (Simplified Chinese)
+
+# 7. 简体中文 (Simplified Chinese)
 
 隐私政策
 
@@ -495,9 +495,9 @@ Si tienes preguntas sobre la privacidad mientras usas la Aplicación, o sobre nu
 如果您在使用本应用时对隐私有任何疑问，或者对我们的做法有疑问，请通过 kcchgs@gmail.com 联系服务提供者。
 
 
----
 
-#8. 한국어 (Korean)
+
+# 8. 한국어 (Korean)
 
 개인정보 처리방침
 
@@ -569,9 +569,9 @@ Si tienes preguntas sobre la privacidad mientras usas la Aplicación, o sobre nu
 본 애플리케이션 이용 중 개인정보 관련 문의가 있거나, 개인정보 처리방침에 대한 질문이 있는 경우, kcchgs@gmail.com(서비스 제공자)으로 연락 바랍니다.
 
 
----
 
-#9. Русский (Russian)
+
+# 9. Русский (Russian)
 
 Политика конфиденциальности
 
@@ -641,9 +641,9 @@ Si tienes preguntas sobre la privacidad mientras usas la Aplicación, o sobre nu
 Если у вас есть вопросы относительно конфиденциальности во время использования Приложения или вопросы о наших практиках, свяжитесь с Поставщиком услуг по адресу kcchgs@gmail.com.
 
 
----
 
-#10. Українська (Ukrainian)
+
+# 10. Українська (Ukrainian)
 
 Політика конфіденційності
 
@@ -713,9 +713,9 @@ Si tienes preguntas sobre la privacidad mientras usas la Aplicación, o sobre nu
 Якщо у вас виникли запитання щодо конфіденційності під час використання Застосунку або запитання щодо практики його використання, зв’яжіться з Постачальником послуг електронною поштою за адресою kcchgs@gmail.com.
 
 
----
 
-#11. Português (Brazilian Portuguese)
+
+# 11. Português (Portuguese)
 
 Política de Privacidade
 
@@ -785,9 +785,9 @@ Fale Conosco
 Se você tiver alguma dúvida sobre privacidade ao usar o Aplicativo ou tiver perguntas sobre nossas práticas, entre em contato com o Provedor de Serviço pelo e-mail kcchgs@gmail.com.
 
 
----
 
-#12. Bahasa Indonesia (Indonesian)
+
+# 12. Bahasa Indonesia (Indonesian)
 
 Kebijakan Privasi
 
