@@ -70,7 +70,7 @@ If you have any questions regarding privacy while using the Application, or have
 
 ---
 
-#2. Français (French)
+# 2. Français (French)
 
 Politique de Confidentialité
 
